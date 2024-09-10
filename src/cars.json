@@ -1,0 +1,492 @@
+[
+    {
+        "make": "Ford",
+        "model": "Mustang GT500",
+        "year": 2020,
+        "powerBhp": 760,
+        "torqueNm": 847,
+        "topSpeedKmph": 290,
+        "quarterMileTime": "11.0 sec",
+        "priceUsd": 74000
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang GT350R",
+        "year": 2019,
+        "powerBhp": 526,
+        "torqueNm": 582,
+        "topSpeedKmph": 280,
+        "quarterMileTime": "11.8 sec",
+        "priceUsd": 67000
+    },
+    {
+        "make": "Ford",
+        "model": "GT",
+        "year": 2017,
+        "powerBhp": 647,
+        "torqueNm": 746,
+        "topSpeedKmph": 347,
+        "quarterMileTime": "10.8 sec",
+        "priceUsd": 500000
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Camaro ZL1",
+        "year": 2020,
+        "powerBhp": 650,
+        "torqueNm": 881,
+        "topSpeedKmph": 318,
+        "quarterMileTime": "11.4 sec",
+        "priceUsd": 63000
+    },
+    {
+        "make": "Dodge",
+        "model": "Challenger Hellcat",
+        "year": 2021,
+        "powerBhp": 797,
+        "torqueNm": 959,
+        "topSpeedKmph": 327,
+        "quarterMileTime": "10.8 sec",
+        "priceUsd": 70000
+    },
+    {
+        "make": "Dodge",
+        "model": "Charger Hellcat",
+        "year": 2021,
+        "powerBhp": 797,
+        "torqueNm": 959,
+        "topSpeedKmph": 327,
+        "quarterMileTime": "10.6 sec",
+        "priceUsd": 75000
+    },
+    {
+        "make": "Tesla",
+        "model": "Model X Plaid",
+        "year": 2022,
+        "powerBhp": 1020,
+        "torqueNm": "",
+        "topSpeedKmph": 262,
+        "quarterMileTime": "9.9 sec",
+        "priceUsd": 130000
+    },
+    {
+        "make": "Bugatti",
+        "model": "Chiron Super Sport",
+        "year": 2021,
+        "powerBhp": 1578,
+        "torqueNm": 1600,
+        "topSpeedKmph": 490,
+        "quarterMileTime": "9.4 sec",
+        "priceUsd": 3900000
+    },
+    {
+        "make": "Bugatti",
+        "model": "Veyron Super Sport",
+        "year": 2011,
+        "powerBhp": 1200,
+        "torqueNm": 1500,
+        "topSpeedKmph": 431,
+        "quarterMileTime": "9.9 sec",
+        "priceUsd": 2500000
+    },
+    {
+        "make": "Hennessey",
+        "model": "Venom F5",
+        "year": 2021,
+        "powerBhp": 1817,
+        "torqueNm": 1617,
+        "topSpeedKmph": 484,
+        "quarterMileTime": "8.4 sec",
+        "priceUsd": 2700000
+    },
+    {
+        "make": "Dodge",
+        "model": "Viper ACR",
+        "year": 2017,
+        "powerBhp": 645,
+        "torqueNm": 814,
+        "topSpeedKmph": 285,
+        "quarterMileTime": "11.5 sec",
+        "priceUsd": 120000
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Corvette ZR1",
+        "year": 2019,
+        "powerBhp": 755,
+        "torqueNm": 969,
+        "topSpeedKmph": 341,
+        "quarterMileTime": "10.6 sec",
+        "priceUsd": 123000
+    },
+    {
+        "make": "Toyota",
+        "model": "Supra Mk4",
+        "year": 1998,
+        "powerBhp": 276,
+        "torqueNm": 431,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "13.1 sec",
+        "priceUsd": 60000
+    },
+    {
+        "make": "Nissan",
+        "model": "GT-R R34",
+        "year": 1999,
+        "powerBhp": 276,
+        "torqueNm": 392,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "12.9 sec",
+        "priceUsd": 60000
+    },
+    {
+        "make": "Honda",
+        "model": "NSX",
+        "year": 1992,
+        "powerBhp": 276,
+        "torqueNm": 294,
+        "topSpeedKmph": 270,
+        "quarterMileTime": "13.0 sec",
+        "priceUsd": 80000
+    },
+    {
+        "make": "Mazda",
+        "model": "RX-7 FD",
+        "year": 1995,
+        "powerBhp": 276,
+        "torqueNm": 314,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "13.3 sec",
+        "priceUsd": 50000
+    },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee Trackhawk",
+        "year": 2018,
+        "powerBhp": 707,
+        "torqueNm": 875,
+        "topSpeedKmph": 290,
+        "quarterMileTime": "11.4 sec",
+        "priceUsd": 90000
+    },
+    {
+        "make": "BMW",
+        "model": "M5 Competition",
+        "year": 2021,
+        "powerBhp": 617,
+        "torqueNm": 750,
+        "topSpeedKmph": 305,
+        "quarterMileTime": "10.9 sec",
+        "priceUsd": 110000
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf R",
+        "year": 2022,
+        "powerBhp": 315,
+        "torqueNm": 420,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "13.1 sec",
+        "priceUsd": 45000
+    },
+    {
+        "make": "Audi",
+        "model": "RS7",
+        "year": 2021,
+        "powerBhp": 591,
+        "torqueNm": 800,
+        "topSpeedKmph": 306,
+        "quarterMileTime": "11.6 sec",
+        "priceUsd": 114000
+    },
+    {
+        "make": "Mercedes",
+        "model": "AMG GT Black Series",
+        "year": 2021,
+        "powerBhp": 720,
+        "torqueNm": 800,
+        "topSpeedKmph": 325,
+        "quarterMileTime": "10.9 sec",
+        "priceUsd": 330000
+    },
+    {
+        "make": "Porsche",
+        "model": "911 GT2 RS",
+        "year": 2018,
+        "powerBhp": 700,
+        "torqueNm": 750,
+        "topSpeedKmph": 340,
+        "quarterMileTime": "10.3 sec",
+        "priceUsd": 293200
+    },
+    {
+        "make": "Lamborghini",
+        "model": "Aventador SVJ",
+        "year": 2019,
+        "powerBhp": 759,
+        "torqueNm": 720,
+        "topSpeedKmph": 350,
+        "quarterMileTime": "10.4 sec",
+        "priceUsd": 517770
+    },
+    {
+        "make": "Ferrari",
+        "model": "SF90 Stradale",
+        "year": 2021,
+        "powerBhp": 986,
+        "torqueNm": 800,
+        "topSpeedKmph": 340,
+        "quarterMileTime": "9.9 sec",
+        "priceUsd": 625000
+    },
+    {
+        "make": "McLaren",
+        "model": "Speedtail",
+        "year": 2020,
+        "powerBhp": 1035,
+        "torqueNm": 1150,
+        "topSpeedKmph": 402,
+        "quarterMileTime": "9.5 sec",
+        "priceUsd": 2100000
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Lancer Evolution IX",
+        "year": 2006,
+        "powerBhp": 286,
+        "torqueNm": 355,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "13.1 sec",
+        "priceUsd": 40000
+    },
+    {
+        "make": "Subaru",
+        "model": "Impreza WRX STI",
+        "year": 2004,
+        "powerBhp": 305,
+        "torqueNm": 393,
+        "topSpeedKmph": 255,
+        "quarterMileTime": "13.2 sec",
+        "priceUsd": 35000
+    },
+    {
+        "make": "Jaguar",
+        "model": "F-Type SVR",
+        "year": 2018,
+        "powerBhp": 575,
+        "torqueNm": 700,
+        "topSpeedKmph": 322,
+        "quarterMileTime": "11.6 sec",
+        "priceUsd": 122000
+    },
+    {
+        "make": "Bentley",
+        "model": "Continental GT Speed",
+        "year": 2022,
+        "powerBhp": 650,
+        "torqueNm": 900,
+        "topSpeedKmph": 335,
+        "quarterMileTime": "11.2 sec",
+        "priceUsd": 220000
+    },
+    {
+        "make": "Aston Martin",
+        "model": "DBS Superleggera",
+        "year": 2020,
+        "powerBhp": 715,
+        "torqueNm": 900,
+        "topSpeedKmph": 340,
+        "quarterMileTime": "11.0 sec",
+        "priceUsd": 316300
+    },
+    {
+        "make": "Fiat",
+        "model": "124 Spider Abarth",
+        "year": 2019,
+        "powerBhp": 164,
+        "torqueNm": 250,
+        "topSpeedKmph": 232,
+        "quarterMileTime": "14.5 sec",
+        "priceUsd": 29000
+    },
+    {
+        "make": "Lotus",
+        "model": "Evora GT",
+        "year": 2020,
+        "powerBhp": 416,
+        "torqueNm": 430,
+        "topSpeedKmph": 303,
+        "quarterMileTime": "12.6 sec",
+        "priceUsd": 96000
+    },
+    {
+        "make": "Suzuki",
+        "model": "Swift Sport",
+        "year": 2020,
+        "powerBhp": 138,
+        "torqueNm": 230,
+        "topSpeedKmph": 210,
+        "quarterMileTime": "16.2 sec",
+        "priceUsd": 21000
+    },
+    {
+        "make": "Peugeot",
+        "model": "308 GTi",
+        "year": 2019,
+        "powerBhp": 270,
+        "torqueNm": 340,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "14.0 sec",
+        "priceUsd": 37000
+    },
+    {
+        "make": "Skoda",
+        "model": "Octavia RS",
+        "year": 2021,
+        "powerBhp": 245,
+        "torqueNm": 370,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "14.3 sec",
+        "priceUsd": 40000
+    },
+    {
+        "make": "Lancia",
+        "model": "Delta Integrale",
+        "year": 1992,
+        "powerBhp": 210,
+        "torqueNm": 304,
+        "topSpeedKmph": 230,
+        "quarterMileTime": "14.5 sec",
+        "priceUsd": 55000
+    },
+    {
+        "make": "Alfa Romeo",
+        "model": "Giulia Quadrifoglio",
+        "year": 2020,
+        "powerBhp": 505,
+        "torqueNm": 600,
+        "topSpeedKmph": 307,
+        "quarterMileTime": "11.8 sec",
+        "priceUsd": 76000
+    },
+    {
+        "make": "Lexus",
+        "model": "LC 500",
+        "year": 2021,
+        "powerBhp": 471,
+        "torqueNm": 540,
+        "topSpeedKmph": 270,
+        "quarterMileTime": "13.0 sec",
+        "priceUsd": 94000
+    },
+    {
+        "make": "Infiniti",
+        "model": "Q60 Red Sport 400",
+        "year": 2019,
+        "powerBhp": 400,
+        "torqueNm": 475,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "12.6 sec",
+        "priceUsd": 58000
+    },
+    {
+        "make": "Maserati",
+        "model": "GranTurismo MC",
+        "year": 2019,
+        "powerBhp": 454,
+        "torqueNm": 520,
+        "topSpeedKmph": 301,
+        "quarterMileTime": "12.9 sec",
+        "priceUsd": 150000
+    },
+    {
+        "make": "Mini",
+        "model": "John Cooper Works GP",
+        "year": 2020,
+        "powerBhp": 302,
+        "torqueNm": 450,
+        "topSpeedKmph": 265,
+        "quarterMileTime": "13.1 sec",
+        "priceUsd": 45000
+    },
+    {
+        "make": "Hyundai",
+        "model": "Veloster N",
+        "year": 2021,
+        "powerBhp": 275,
+        "torqueNm": 353,
+        "topSpeedKmph": 250,
+        "quarterMileTime": "14.2 sec",
+        "priceUsd": 35000
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover Sport SVR",
+        "year": 2021,
+        "powerBhp": 575,
+        "torqueNm": 700,
+        "topSpeedKmph": 283,
+        "quarterMileTime": "12.3 sec",
+        "priceUsd": 140000
+    },
+    {
+        "make": "Citroen",
+        "model": "DS3 Racing",
+        "year": 2013,
+        "powerBhp": 204,
+        "torqueNm": 275,
+        "topSpeedKmph": 235,
+        "quarterMileTime": "15.0 sec",
+        "priceUsd": 30000
+    },
+    {
+        "make": "Renault",
+        "model": "Megane RS Trophy",
+        "year": 2020,
+        "powerBhp": 296,
+        "torqueNm": 420,
+        "topSpeedKmph": 260,
+        "quarterMileTime": "14.1 sec",
+        "priceUsd": 45000
+    },
+    {
+        "make": "Abarth",
+        "model": "595 Competizione",
+        "year": 2021,
+        "powerBhp": 180,
+        "torqueNm": 250,
+        "topSpeedKmph": 225,
+        "quarterMileTime": "16.0 sec",
+        "priceUsd": 26000
+    },
+    {
+        "make": "Isuzu",
+        "model": "Piazza Turbo",
+        "year": 1990,
+        "powerBhp": 150,
+        "torqueNm": 186,
+        "topSpeedKmph": 210,
+        "quarterMileTime": "17.0 sec",
+        "priceUsd": 20000
+    },
+    {
+        "make": "Fiat",
+        "model": "124 Spider Abarth",
+        "year": 2019,
+        "powerBhp": 164,
+        "torqueNm": 250,
+        "topSpeedKmph": 232,
+        "quarterMileTime": "14.5 sec",
+        "priceUsd": 29000
+    },
+    {
+        "make": "Hummer",
+        "model": "H1 Alpha",
+        "year": 2006,
+        "powerBhp": 300,
+        "torqueNm": 712,
+        "topSpeedKmph": 135,
+        "quarterMileTime": "18.0 sec",
+        "priceUsd": 150000
+    }
+]
